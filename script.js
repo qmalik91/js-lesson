@@ -1,4 +1,4 @@
-$("div")[0]
+var topbar = $("div")[0]
 
 
 
